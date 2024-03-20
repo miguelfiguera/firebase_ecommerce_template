@@ -1,3 +1,11 @@
+Dependencies
+
+1. react-hot-toast
+2. firebase admin
+3. firebase client
+4. faker.js
+5. react-hook-form
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
