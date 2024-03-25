@@ -31,3 +31,15 @@ interface Bill{
     paymentMethod: string,
     confirmed: boolean
 }
+
+interface Profile{
+    userName:string,
+    address:string,
+    lat:number,
+    long:number,
+    phone:string,
+    name:string,
+    lastName:string
+    dateOfBirth:Date,
+    idNumber:number
+}
